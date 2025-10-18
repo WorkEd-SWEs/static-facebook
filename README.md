@@ -20,7 +20,7 @@ http://localhost:3000/section/
 - `/section/profile/100` - Example profile page
 - `/section/_next/` - Static assets (JS, CSS)
 - Images and other assets
- 
+
 ## Integration
 To include this in another static site:
 1. Copy everything into your projects public/section/ directory
